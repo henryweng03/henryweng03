@@ -1,5 +1,5 @@
 ### Hey, my name is Henry Weng 👋
 
-- 🌱 I'm a student at Stanford University interested computer science, economics, and entrepreneurship
+- 🌱 I'm currently building something new. Prev CS + Econ @ Stanford with a focus on AI and Market Design
 - 📫 Get in touch @ hweng [at] stanford [dot] edu
 - 🖥️ www.henryweng.com
